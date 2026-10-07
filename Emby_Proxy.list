@@ -1,0 +1,45 @@
+# Emby 非直连线路 (Surge 规则集)
+# 共 21 条
+
+# CineTrail公益线路
+DOMAIN,cf.aixj.de
+# Ok线路 (端口 8443)
+DOMAIN,link00.okemby.org
+# Nebula星云线路
+DOMAIN,emby.nebula-media.org
+# nox线路
+DOMAIN,test.inemby.us.ci
+# SNTP Media Lite公益线路
+DOMAIN,lite.cn2gias.uk
+# 非越媒体库线路
+DOMAIN,cf.sfcj.org
+# 稳健线路
+DOMAIN,m.wenjian.de
+# KL线路
+DOMAIN,tyemby.klplay.top
+# 星影线路
+DOMAIN,xying1314.xyz
+# 🏝️龟仙屋线路
+DOMAIN,zxngw-direct.gxwplay.top
+# 宸澄线路
+DOMAIN,media.wybcs.work
+# Ask Ash线路
+DOMAIN,ask.ash.yt
+# 二刺螈线路
+DOMAIN,media.nijigem.by
+# CineTrailPorn线路
+DOMAIN,ct.yingji.lol
+# 流光画廊线路
+DOMAIN,jf.dqx99999.shop
+# 步兵营地线路
+DOMAIN,bb.emby.edu.kg
+# NiuBi线路
+DOMAIN,772111.xyz
+# PlayZ线路
+DOMAIN,playzemby.mjji.de
+# 帝线路
+DOMAIN,emby.di0.uk
+# STAR.CORE线路
+DOMAIN,emby.staryuki.com
+# 风月阁线路
+DOMAIN,emby.hellohk.me

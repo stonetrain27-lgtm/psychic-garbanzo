@@ -1,0 +1,61 @@
+# Emby 直连线路 (Surge 规则集)
+# 共 29 条
+
+# 小姨子线路 (端口 4443)
+DOMAIN,gf.emby.fan
+# YounoAir线路
+DOMAIN,7skno97f.younoair.de
+# CineTrail公费线路
+DOMAIN,vip.cinetrail.live
+# Peach线路 (端口 8443)
+DOMAIN,white.embymv.link
+# 乐蛙线路
+DOMAIN,emby.taotu.ink
+# 青柠映画线路
+DOMAIN,yty675hj45.nms267.top
+# 予初线路
+DOMAIN,aaa.yusen6.ccwu.cc
+# NyaMedia线路
+DOMAIN,emby.bangumi.ca
+# 银河列车线路
+DOMAIN,yuanshen.help
+# emos线路
+DOMAIN,video.emos.best
+# 二楼有请线路
+DOMAIN,emby.huangmin.cc.cd
+# doubon线路
+DOMAIN,onatoshi.114514.quest
+# ETFLIX公益线路
+DOMAIN,goemby.entertang.work
+# 橘映线路
+DOMAIN,www.525778.xyz
+# 飞幕线路
+DOMAIN,feimu.tv
+# ChilledMelon🍉线路
+DOMAIN,us.chilledmelon.com
+# 随时跑路线路
+DOMAIN,emby.kingemby.com
+# Msky公益线路
+DOMAIN,gcf.betop.uk
+# 折纸线路
+DOMAIN,emby101.origamiart.uk
+# M Mini线路
+DOMAIN,minicf.mebimmer.de
+# Chapanda线路
+DOMAIN,emby.teawaya.com
+# We线路
+DOMAIN,a.wedg.top
+# EOOS公益线路
+DOMAIN,www.eoos.top
+# 結束バンド线路
+DOMAIN,genshin.biliblili.uk
+# NayOvO线路
+DOMAIN,nay.007.us.kg
+# 飞了个喵线路
+DOMAIN,gy.meowfly.de
+# 西瓜线路
+DOMAIN,www.yuntv.de
+# 这只猫😼线路
+DOMAIN,eb.zzm.li
+# 乐观线路
+DOMAIN,emby.dijia.de
